@@ -120,6 +120,7 @@ Browsers without [native custom element support](https://caniuse.com/#feat=custo
 
 ## Author
 
-**MetingJS** © [metowolf](https://github.com/metowolf), Released under the [MIT](./LICENSE) License.<br>
+**MetingJS** Modified [Robert.LIU](https://github.com/CN-Robert-LIU), Released under the [MIT](./LICENSE) License.<br>
+
 
 > Blog (https://robert-liu-designer.tk)
