@@ -16,7 +16,6 @@ https://github.com/MoePlayer/APlayer
 |Version|API Status|APlayer|
 |---|---|---|
 |1.2.x|Supported|[![](https://img.shields.io/badge/APlayer-^1.10.0-green.svg?longCache=true&style=for-the-badge)](https://github.com/MoePlayer/APlayer)|
-|2.0.x|Latest|[![](https://img.shields.io/badge/APlayer-^1.10.0-green.svg?longCache=true&style=for-the-badge)](https://github.com/MoePlayer/APlayer)|
 
 ## CDN
  - https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js
